@@ -1,4 +1,4 @@
-**Se concentre nos seus estudos e não perca o foco!✍📖**
+**Se concentre nos seus estudos e tarefas, não perca o foco!!✍📖**
 
 Para adquirir conhecimentos básicos com o DOM (Document Object Model), criei esse projeto simples para utilizar os elementos e métodos mais utilizados nas páginas.
 
